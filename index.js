@@ -1,0 +1,1 @@
+console.log('Hey!! s3-test-deleteme2 instance is getting created. ');

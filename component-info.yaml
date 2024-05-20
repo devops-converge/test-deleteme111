@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "s3-test-deleteme2"
+  annotations:
+    github.com/project-slug: devops-converge/test-deleteme111
+    backstage.io/techdocs-ref: dir:.
+  #title: 'IA for S3 Automation' # you can give any title
+  title: "s3-test-deleteme2" 
+  description: An example of a S3 Creation. # Change Description accordingly
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
